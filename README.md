@@ -24,10 +24,10 @@ This profile is where I experiment, build and break things. Client work stays pr
 ### Public projects
 | Repo | What it is |
 |---|---|
-| [Ezzy](https://github.com/YOUR_USERNAME/ezzy) | Windows app that controls the PC by voice, with an always-on floating overlay |
-| [ArchDesign AI](https://github.com/YOUR_USERNAME/archdesign-ai) | Multi-agent platform (CrewAI + FastAPI) that generates software architecture designs |
-| [Secure Banking API](https://github.com/YOUR_USERNAME/banking-api) | JWT auth, Redis token revocation, RBAC, atomic transactions |
-| [Real-time Chat](https://github.com/YOUR_USERNAME/realtime-chat) | Groups, media, and WebRTC audio/video |
+| [Ezzy | Windows app that controls the PC by voice, with an always-on floating overlay |
+| [ArchDesign AI]| Multi-agent platform (CrewAI + FastAPI) that generates software architecture designs |
+| [Secure Banking API] | JWT auth, Redis token revocation, RBAC, atomic transactions |
+| [Real-time Chat] | Groups, media, and WebRTC audio/video |
 
 ### 🔜 Dropping soon (public versions of production patterns I Built for clients)
 - **RAG chatbot template**: LangChain, Pinecone, Redis session memory, intent routing
