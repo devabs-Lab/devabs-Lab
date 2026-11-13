@@ -71,7 +71,6 @@ This profile is where I experiment, build and break things. Client work stays pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abreham-semu-software-engineer)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_PROFILE)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@devabstack)
 
 Open to opportunities in AI automation, AI agents, and full-stack development. Reach out on LinkedIn.
