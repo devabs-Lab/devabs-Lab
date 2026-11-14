@@ -46,4 +46,4 @@ I build AI-powered products and automation systems, from agent workflows and RAG
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@devabstack)
 
-Open to opportunities in AI automation, AI agents, and full-stack development. Reach out on LinkedIn.
+Open to opportunities in AI automation, AI agents development, and full-stack application. Reach out on LinkedIn.
