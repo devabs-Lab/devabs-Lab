@@ -27,23 +27,34 @@ I build AI-powered products and automation systems, from agent workflows and RAG
 
 ---
 
-## 🛠️ Tech stack
+<div align="center">
+🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+🤖 AI & Agents
 
+Show Image Show Image Show Image Show Image Show Image
+
+⚙️ Automation
+
+Show Image Show Image Show Image Show Image
+
+💻 Languages
+
+Show Image Show Image Show Image Show Image
+
+🧱 Backend & Data
+
+Show Image Show Image Show Image Show Image Show Image Show Image
+
+🎨 Frontend & Mobile
+
+Show Image Show Image
+
+🔌 Real-time & Infra
+
+Show Image Show Image Show Image Show Image
+
+</div>
 **AI / Automation:** LangChain · CrewAI · OpenAI API · Pinecone · RAG · n8n · Make.com · Zapier · Airtable
 **Real-time:** Socket.IO · WebRTC
 
