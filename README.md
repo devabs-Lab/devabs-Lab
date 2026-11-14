@@ -29,7 +29,7 @@ I build AI-powered products and automation systems, from agent workflows and RAG
 
 <div align="center">
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,fastapi,django,python,postgres,mongodb,redis,docker,git,aws&perline=5" alt="tech stack icons" width="260" /> </p> <p align="center"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat" alt="CrewAI" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" alt="Pinecone" /> <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat" alt="RAG" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,fastapi,django,python,postgres,mongodb,redis,docker,git,aws&perline=7" alt="tech stack icons" width="350" /> </p> <p align="center"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat" alt="CrewAI" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" alt="Pinecone" /> <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat" alt="RAG" /> </p>
   div>
 ---
 
