@@ -19,16 +19,6 @@ I build AI-powered products and automation systems, from agent workflows and RAG
 
 ## 🧪 The Lab
 
-This profile is where I experiment, build and break things. Client work stays private, so what's here is my own work and public rebuilds of the patterns I use in production.
-
-### Public projects
-| Repo | What it is |
-|---|---|
-| Ezzy | Windows app that controls the PC by voice, with an always-on floating overlay |
-| ArchDesign AI | Multi-agent platform (CrewAI + FastAPI) that generates software architecture designs |
-| Secure Banking API | JWT auth, Redis token revocation, RBAC, atomic transactions |
-| Real-time Chat | Groups, media, and WebRTC audio/video |
-
 ### 🔜 Dropping soon (public versions of production patterns I Built for clients)
 - **RAG chatbot template**: LangChain, Pinecone, Redis session memory, intent routing
 - **LLM API gateway**: bearer auth, tiered rate limiting, usage logging, admin dashboard
@@ -61,7 +51,7 @@ This profile is where I experiment, build and break things. Client work stays pr
 
 ## 🎯 Where I'm headed
 
-- Going deeper into **AI agents, agentic applications and AI Engineering**
+- Going deeper into **AI agents, agentic applications and ML Engineering**
 - Strengthening my **backend engineering** (NestJS, scaling, multi-tenancy, system design)
 
 
