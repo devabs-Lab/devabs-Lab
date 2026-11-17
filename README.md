@@ -1,6 +1,6 @@
 ##                                               <div align="center">   Hi, I'm Abreham Semu👋  </div>
 
-**Full-Stack and AI Agent Engineer** based in Ethiopia
+**I'm a Full-Stack and AI Agent Engineer** based in Ethiopia
 with many years of professional experience building AI and full-stack products
 
 
